@@ -11,7 +11,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Input pre-processing](https://github.com/KonstantinaT/D2D/blob/main/input_preprocessing)
+   * [Input pre-processing](https://github.com/KonstantinaT/D2D/blob/main/README.md#input-pre-processing)
    * [Feature Extraction & Pathogenicity Prediction]()
    * [Software and Hardware requirements]()
    * [Datasets]()
