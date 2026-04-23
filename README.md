@@ -23,7 +23,7 @@ Input pre-processing
 
 Generates all possible single-point amino-acid substitutions for a given protein, producing the input CSV files required by the D2D/D2Deep pipeline.
 
-**Code**: input_preprocessing.ipynb
+**Code**: [input_preprocessing.ipynb](https://github.com/KonstantinaT/D2D/blob/main/input_preprocessing.ipynb) 
 
 **Output:** `<uniprot>_all.csv` — one row per single-point mutant (19 × sequence length rows for a full scan).
 
