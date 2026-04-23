@@ -31,7 +31,7 @@ Generates all possible single-point amino-acid substitutions for a given protein
 
 Feature Extraction & Pathogenicity Prediction
 ============
-Core pipeline that computes D2D  features and runs D2Deep cancer driver classification predictors: 
+Core pipeline that computes D2D  features and runs D2Deep cancer driver classification predictors: [D2D_extract_feat_predict.ipynb](https://github.com/KonstantinaT/D2D/blob/main/D2D_extract_feat_predict.ipynb)
 
 **What it does:**
 1. **MSA processing** — Loads a multiple sequence alignment (`.a3m`), filters sequences by identity to the query (>50%) and gap content (≤30%), with automatic fallback to relaxed thresholds for shallow alignments.
