@@ -11,11 +11,11 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Input pre-processing](https://github.com/KonstantinaT/D2D/blob/main/README.md#input-pre-processing)
-   * [Feature Extraction & Pathogenicity Prediction](https://github.com/KonstantinaT/D2D/edit/main/README.md#feature-extraction--pathogenicity-prediction)
-   * [D2D manuscript results](https://github.com/KonstantinaT/D2D/main/README.md#d2d-manuscript-results)
-   * [Software and Hardware requirements](https://github.com/KonstantinaT/D2D/main/README.md#software-and-hardware-requirements)
-   * [Datasets](https://github.com/KonstantinaT/D2D/main/README.md#datasets)
+   * [Input pre-processing](https://github.com/KonstantinaT/D2D/README.md#input-pre-processing)
+   * [Feature Extraction & Pathogenicity Prediction](https://github.com/KonstantinaT/D2D/README.md#feature-extraction--pathogenicity-prediction)
+   * [D2D manuscript results](https://github.com/KonstantinaT/D2D/README.md#d2d-manuscript-results)
+   * [Software and Hardware requirements](https://github.com/KonstantinaT/D2D/README.md#software-and-hardware-requirements)
+   * [Datasets](https://github.com/KonstantinaT/D2D/README.md#datasets)
 <!--te-->
 
 
