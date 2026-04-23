@@ -43,7 +43,7 @@ Core pipeline that computes D2D  features and runs D2Deep cancer driver classifi
 
 D2D manuscript results
 ============
-Code for replication of D2D manuscript results: [D2D_paper.ipynb](https://github.com/KonstantinaT/D2D/blob/main/D2D_paper.ipynb)
+Code for reproducing the D2D manuscript results: [D2D_paper.ipynb](https://github.com/KonstantinaT/D2D/blob/main/D2D_paper.ipynb)
 
 
 Software and Hardware requirements
