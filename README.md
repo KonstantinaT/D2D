@@ -12,9 +12,10 @@ Table of contents
 
 <!--ts-->
    * [Input pre-processing](https://github.com/KonstantinaT/D2D/blob/main/README.md#input-pre-processing)
-   * [Feature Extraction & Pathogenicity Prediction]()
-   * [Software and Hardware requirements]()
-   * [Datasets]()
+   * [Feature Extraction & Pathogenicity Prediction](https://github.com/KonstantinaT/D2D/edit/main/README.md#feature-extraction--pathogenicity-prediction)
+   * [D2D manuscript results](https://github.com/KonstantinaT/D2D/edit/main/README.md#d2d-manuscript-results)
+   * [Software and Hardware requirements](https://github.com/KonstantinaT/D2D/edit/main/README.md#software-and-hardware-requirements)
+   * [Datasets](https://github.com/KonstantinaT/D2D/edit/main/README.md#datasets)
 <!--te-->
 
 
@@ -30,7 +31,7 @@ Generates all possible single-point amino-acid substitutions for a given protein
 
 Feature Extraction & Pathogenicity Prediction
 ============
-Core pipeline that computes D2D  features and runs D2Deep cancer driver classification predictors.
+Core pipeline that computes D2D  features and runs D2Deep cancer driver classification predictors: 
 
 **What it does:**
 1. **MSA processing** — Loads a multiple sequence alignment (`.a3m`), filters sequences by identity to the query (>50%) and gap content (≤30%), with automatic fallback to relaxed thresholds for shallow alignments.
@@ -40,9 +41,15 @@ Core pipeline that computes D2D  features and runs D2Deep cancer driver classifi
 5. **Confidence scoring** — Combines the D2Deep prediction with a min-max normalized MSA log-probability to assign a final confidence score.
 
 
+D2D manuscript results
+============
+Code for replication of D2D manuscript results:
+
+
 Software and Hardware requirements
 ============
 **Requirements:** Python 3.10+, PyTorch, Transformers, EVcouplings, scikit-learn, Biopython. A GPU is strongly recommended for ProtT5 inference.
+
 For a representative protein of 344 amino acids (approximately the median length of a human protein) with an MSA of 647 sequences, the total computation time for all possible single mutations is summarized below:
 <img width="353" height="132" alt="image" src="https://github.com/user-attachments/assets/1cbd8cdd-195e-4f7a-9196-5b991ed43895" />
 
@@ -50,4 +57,4 @@ For a representative protein of 344 amino acids (approximately the median length
 Datasets
 ============
 
-Datasets containing predictions and test sets can be downloaded through Zenodo: TBD
+Datasets containing predictions and test sets can be downloaded through Zenodo: 
