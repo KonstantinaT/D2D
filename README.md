@@ -57,4 +57,4 @@ For a representative protein of 344 amino acids (approximately the median length
 Datasets
 ============
 
-Datasets containing predictions and test sets can be downloaded through Zenodo: 
+Datasets containing predictions and test sets can be downloaded through Zenodo: [https://doi.org/10.5281/zenodo.20309166](https://doi.org/10.5281/zenodo.20309165)
