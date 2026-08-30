@@ -43,7 +43,8 @@ Core pipeline that computes D2D  features and runs D2Deep cancer driver classifi
 
 D2D manuscript results
 ============
-Code for reproducing the D2D manuscript results: [stability_LIPS.ipynb](https://github.com/KonstantinaT/D2D/blob/main/stability_LIPS.ipynb)
+Code for reproducing the D2D manuscript results: - [stability_LIPS.ipynb](https://github.com/KonstantinaT/D2D/blob/main/stability_LIPS.ipynb)
+- [proteingym.ipynb](https://github.com/KonstantinaT/D2D/blob/main/proteingym.ipynb)
 
 
 Software and Hardware requirements
