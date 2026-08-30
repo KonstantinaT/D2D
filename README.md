@@ -49,6 +49,7 @@ Code for reproducing the D2D manuscript results:
 - [latent_drivers.ipynb](https://github.com/KonstantinaT/D2D/blob/main/latent_drivers.ipynb)
 - [D2D_epistasis_TP53.ipynb](https://github.com/KonstantinaT/D2D/blob/main/D2D_epistasis_TP53.ipynb)
 
+Supplementary inputs required to run the code: [data.zip](https://github.com/KonstantinaT/D2D/blob/main/data.zip)
 
 Software and Hardware requirements
 ============
